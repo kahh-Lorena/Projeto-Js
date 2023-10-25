@@ -24,3 +24,8 @@ for (let i = 0; i < linhasProdutos.length; i++) {
     localSituacao.innerHTML = verificarSituacaoEstoque(localQuantidade.textContent)
     
 }
+
+const botaonovo = document.querySelector('.bntnovo1');
+botaonovo.addEventListener('click',function(e){
+    
+}
